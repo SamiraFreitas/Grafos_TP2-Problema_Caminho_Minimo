@@ -27,7 +27,7 @@ ainda não foi visitado até que todos os vértices façam parte da rota.
 
 Já para o refinamento foi-se utilizado o método: 
 
-2-opt - Remove duas arestas distintas da rota e as reinsere da melhor forma poss ́ıvel.
+2-opt - Remove duas arestas distintas da rota e as reinsere da melhor forma possível.
 
 ## 👀 Documentação do Projeto
 
