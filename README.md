@@ -31,7 +31,7 @@ Já para o refinamento foi-se utilizado o método:
 
 ## 👀 Documentação do Projeto
 
-Esse projeto possui uma documentação que pode ser encontrada : 
+Esse projeto possui uma documentação que pode ser encontrada : [📝 Artigo](https://www.overleaf.com/read/gwsjvvyjxyrp)
 
 
 ## 👾 Tecnologias Utilizadas 
